@@ -1,0 +1,3 @@
+pikachu AND charizard, 6
+dugtrio OR pidgeot OR oddish, 2
+zapdos OR tyranitar AND NOT pidgeot, 10

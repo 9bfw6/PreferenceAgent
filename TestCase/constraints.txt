@@ -1,0 +1,6 @@
+NOT quagsire OR mewtwo
+blastoise OR venusaur
+NOT pidgeot OR NOT oddish
+NOT pikachu OR jynx OR tyranitar
+NOT mewtwo OR NOT blastoise OR pikachu
+omastar OR charizard

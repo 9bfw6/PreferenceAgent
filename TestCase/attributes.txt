@@ -1,0 +1,8 @@
+fire: charizard, magmar
+water: blastoise, tentacruel
+grass: venusaur, oddish
+electric: pikachu, zapdos
+ground: quagsire, dugtrio
+psychic: mewtwo, jynx
+flying: pidgeot, lugia
+rock: omastar, tyranitar
